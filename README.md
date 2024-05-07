@@ -33,4 +33,4 @@
 | **1 Prise** Käuter | **1 Prise** Käuter |
 | **125g** Spaghetti | **250g** Spaghetti |
 
-Für mehr Infos oder andere Rezepte klicke [hier](https://www.daskochrezept.de/rezepte/einfache-spaghetti-bolognese target="_blank").
+Für mehr Infos oder andere Rezepte klicke [hier](https://www.daskochrezept.de/rezepte/einfache-spaghetti-bolognese).

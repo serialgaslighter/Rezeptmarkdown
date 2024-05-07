@@ -24,3 +24,12 @@
  7. Wasser abgießen
  8. Nudeln mit der Soße servieren
 
+| 1 Portion | 2 Portionen |
+|----------|----------|
+| 1/4 Zwiebel | 1/2 Zwiebel |
+| 125g Hackfleisch | 250g Hackfleisch |
+| 1 TL Planzenöl | 1 TL Planzenöl |
+| 150g Tomaten | 300g Tomaten |
+| 1 Prise Käuter | 1 Prise Käuter |
+| 125g Spaghetti | 250g Spaghetti |
+

@@ -13,10 +13,12 @@ Zutaten (4 Portionen)
  - 500g Spaghetti
 
  Zubereitung
- 1.
- 2.
- 3.
- 4.
- 5.
- 6.
- 
+ 1. Zwiebel in kleine Stücke schneiden
+ 2. Zusammen mit Hackfleisch und Öl anbraten
+ 3. Mit Mehl bestreuen und Tomaten + etwas Wasser hinzugeben
+ 4. Gelegentlich umrühren und ca. 30min köcheln lassen
+ 5. Mit Salz und Pfeffer würzen
+ 6. Nudeln in Salzwasser für ca. 10min kochen lassen
+ 7. Wasser abgießen
+ 8. Nudeln mit der Soße servieren
+

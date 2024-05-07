@@ -2,7 +2,7 @@
 
 ![Spaghetti Bolognese](./stockfood-00322906.jpg)
 
-Zutaten (4 Portionen)
+Zutaten (_4 Portionen_)
  - 1 Zwiebel
  - 500g Hackfleisch
  - 1 EL Planzenöl

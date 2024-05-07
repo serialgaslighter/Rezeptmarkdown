@@ -11,3 +11,12 @@ Zutaten (4 Portionen)
  - Salz und Pfeffer
  - 1 TL Italienische Kräuter
  - 500g Spaghetti
+
+ Zubereitung
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 

@@ -5,14 +5,14 @@
 > Bolo geht immer!
 
 **Zutaten** (_4 Portionen_)
- - 1 Zwiebel
- - 500g Hackfleisch
- - 1 EL Planzenöl
- - 1 EL Mehl
- - 750g Tomaten
+ - **1** Zwiebel
+ - **500g** Hackfleisch
+ - **1 EL** Planzenöl
+ - **1 EL** Mehl
+ - **750g** Tomaten
  - Salz und Pfeffer
- - 1 TL Italienische Kräuter
- - 500g Spaghetti
+ - **1 TL** Italienische Kräuter
+ - **500g** Spaghetti
 
  **Zubereitung**
  1. Zwiebel in kleine Stücke schneiden
@@ -26,10 +26,10 @@
 
 | 1 Portion | 2 Portionen |
 |----------|----------|
-| 1/4 Zwiebel | 1/2 Zwiebel |
-| 125g Hackfleisch | 250g Hackfleisch |
-| 1 TL Planzenöl | 1 TL Planzenöl |
-| 150g Tomaten | 300g Tomaten |
-| 1 Prise Käuter | 1 Prise Käuter |
-| 125g Spaghetti | 250g Spaghetti |
+| **1/4** Zwiebel | **1/2** Zwiebel |
+| **125g** Hackfleisch | **250g** Hackfleisch |
+| **1 TL** Planzenöl | **1 TL** Planzenöl |
+| **150g** Tomaten | **300g** Tomaten |
+| **1 Prise** Käuter | **1 Prise** Käuter |
+| **125g** Spaghetti | **250g** Spaghetti |
 

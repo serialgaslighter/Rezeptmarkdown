@@ -2,6 +2,8 @@
 
 ![Spaghetti Bolognese](./stockfood-00322906.jpg)
 
+> Bolo geht immer!
+
 **Zutaten** (_4 Portionen_)
  - 1 Zwiebel
  - 500g Hackfleisch

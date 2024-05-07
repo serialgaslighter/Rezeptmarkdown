@@ -1,5 +1,7 @@
 # Spaghetti Bolognese
 
+![Spaghetti Bolognese](./stockfood-00322906.jpg)
+
 Zutaten
  - 1 Zwiebel
  - 500g Hackfleisch

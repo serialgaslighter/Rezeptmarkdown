@@ -2,7 +2,7 @@
 
 ![Spaghetti Bolognese](./stockfood-00322906.jpg)
 
-Zutaten (_4 Portionen_)
+**Zutaten** (_4 Portionen_)
  - 1 Zwiebel
  - 500g Hackfleisch
  - 1 EL Planzenöl
@@ -12,7 +12,7 @@ Zutaten (_4 Portionen_)
  - 1 TL Italienische Kräuter
  - 500g Spaghetti
 
- Zubereitung
+ **Zubereitung**
  1. Zwiebel in kleine Stücke schneiden
  2. Zusammen mit Hackfleisch und Öl anbraten
  3. Mit Mehl bestreuen und Tomaten + etwas Wasser hinzugeben
